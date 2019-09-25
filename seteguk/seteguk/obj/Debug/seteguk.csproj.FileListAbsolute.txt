@@ -1,0 +1,16 @@
+C:\Users\Bella Dwi\source\repos\seteguk\seteguk\bin\Debug\seteguk.exe.config
+C:\Users\Bella Dwi\source\repos\seteguk\seteguk\bin\Debug\seteguk.exe
+C:\Users\Bella Dwi\source\repos\seteguk\seteguk\bin\Debug\seteguk.pdb
+C:\Users\Bella Dwi\source\repos\seteguk\seteguk\bin\Debug\MySql.Data.dll
+C:\Users\Bella Dwi\source\repos\seteguk\seteguk\bin\Debug\Google.Protobuf.dll
+C:\Users\Bella Dwi\source\repos\seteguk\seteguk\bin\Debug\Renci.SshNet.dll
+C:\Users\Bella Dwi\source\repos\seteguk\seteguk\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Bella Dwi\source\repos\seteguk\seteguk\bin\Debug\MySql.Data.xml
+C:\Users\Bella Dwi\source\repos\seteguk\seteguk\obj\Debug\seteguk.csprojAssemblyReference.cache
+C:\Users\Bella Dwi\source\repos\seteguk\seteguk\obj\Debug\seteguk.Form1.resources
+C:\Users\Bella Dwi\source\repos\seteguk\seteguk\obj\Debug\seteguk.Properties.Resources.resources
+C:\Users\Bella Dwi\source\repos\seteguk\seteguk\obj\Debug\seteguk.csproj.GenerateResource.cache
+C:\Users\Bella Dwi\source\repos\seteguk\seteguk\obj\Debug\seteguk.csproj.CoreCompileInputs.cache
+C:\Users\Bella Dwi\source\repos\seteguk\seteguk\obj\Debug\seteguk.csproj.CopyComplete
+C:\Users\Bella Dwi\source\repos\seteguk\seteguk\obj\Debug\seteguk.exe
+C:\Users\Bella Dwi\source\repos\seteguk\seteguk\obj\Debug\seteguk.pdb
