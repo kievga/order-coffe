@@ -15,6 +15,7 @@ namespace seteguk
     {
         private static string connectionString = "server=localhost;port=3306;username=root;password=;database=seteguk;";
         private MySqlConnection databaseConn = new MySqlConnection(connectionString);
+
         public Form1()
         {
             InitializeComponent();
@@ -132,6 +133,20 @@ namespace seteguk
                 text_total.Text = "";
             }
             databaseConn.Close();
+        }
+
+        private void SatuanToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            FormSatuan s = new FormSatuan();
+            s.Show();
+            this.Hide();
+        }
+
+        private void StokBahanBakuToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            FormStok stok = new FormStok();
+            stok.Show();
+            this.Hide();
         }
     }
 }

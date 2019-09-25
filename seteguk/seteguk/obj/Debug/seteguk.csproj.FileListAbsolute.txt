@@ -14,3 +14,5 @@ C:\Users\Bella Dwi\source\repos\seteguk\seteguk\obj\Debug\seteguk.csproj.CoreCom
 C:\Users\Bella Dwi\source\repos\seteguk\seteguk\obj\Debug\seteguk.csproj.CopyComplete
 C:\Users\Bella Dwi\source\repos\seteguk\seteguk\obj\Debug\seteguk.exe
 C:\Users\Bella Dwi\source\repos\seteguk\seteguk\obj\Debug\seteguk.pdb
+C:\Users\Bella Dwi\source\repos\seteguk\seteguk\obj\Debug\seteguk.FormSatuan.resources
+C:\Users\Bella Dwi\source\repos\seteguk\seteguk\obj\Debug\seteguk.FormStok.resources
