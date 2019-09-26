@@ -1,0 +1,16 @@
+C:\Users\admin\Documents\Visual Studio 2017\Projects\seteguk\seteguk\obj\Debug\seteguk.csprojAssemblyReference.cache
+C:\Users\admin\Documents\Visual Studio 2017\Projects\seteguk\seteguk\obj\Debug\seteguk.Form1.resources
+C:\Users\admin\Documents\Visual Studio 2017\Projects\seteguk\seteguk\obj\Debug\seteguk.Properties.Resources.resources
+C:\Users\admin\Documents\Visual Studio 2017\Projects\seteguk\seteguk\obj\Debug\seteguk.csproj.GenerateResource.cache
+C:\Users\admin\Documents\Visual Studio 2017\Projects\seteguk\seteguk\obj\Debug\seteguk.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\Visual Studio 2017\Projects\seteguk\seteguk\bin\Debug\seteguk.exe.config
+C:\Users\admin\Documents\Visual Studio 2017\Projects\seteguk\seteguk\bin\Debug\seteguk.exe
+C:\Users\admin\Documents\Visual Studio 2017\Projects\seteguk\seteguk\bin\Debug\seteguk.pdb
+C:\Users\admin\Documents\Visual Studio 2017\Projects\seteguk\seteguk\bin\Debug\MySql.Data.dll
+C:\Users\admin\Documents\Visual Studio 2017\Projects\seteguk\seteguk\bin\Debug\Google.Protobuf.dll
+C:\Users\admin\Documents\Visual Studio 2017\Projects\seteguk\seteguk\bin\Debug\Renci.SshNet.dll
+C:\Users\admin\Documents\Visual Studio 2017\Projects\seteguk\seteguk\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\admin\Documents\Visual Studio 2017\Projects\seteguk\seteguk\bin\Debug\MySql.Data.xml
+C:\Users\admin\Documents\Visual Studio 2017\Projects\seteguk\seteguk\obj\Debug\seteguk.csproj.CopyComplete
+C:\Users\admin\Documents\Visual Studio 2017\Projects\seteguk\seteguk\obj\Debug\seteguk.exe
+C:\Users\admin\Documents\Visual Studio 2017\Projects\seteguk\seteguk\obj\Debug\seteguk.pdb
